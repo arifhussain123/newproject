@@ -1,0 +1,81 @@
+*{
+    padding: 0px;
+    margin: 0px
+}
+
+body{
+    padding: 30px
+}
+.head{
+    font-size: 40px;
+    color: #006732;
+     text-align: center;
+    padding: 0 0 20px 0;
+}
+.nenu{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #006732;
+    border-radius:82px;
+    padding: 15px;
+}
+.nenu>span{
+    padding: 15px;
+    text-decoration: none;
+}
+.nenu span a {
+    color: white;
+    text-decoration: none;
+}
+.nenu span a:hover {
+    border-radius: 5px;
+    background-color: rgb(117, 58, 117);
+    padding: 17px;
+}
+.field{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.legent1{
+    background-color: lightgreen;
+    border-radius: 15px;
+    font-style: italic;    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.field1{
+    background-color: rgb(121, 232, 232);
+    border-radius: 15px;
+    border: 2px solid black;
+}
+.field2{
+    background-color: rgb(121, 232, 232);
+    border-radius: 15px;
+}
+.field h2{
+    color:  #006732;
+    padding: 0 0 0 10px;
+}
+.field p{
+    padding: 0 10px 0 25px;
+}
+fieldset{
+    border-radius: 15px;
+    margin: 20px 0 0 0 ;
+    padding: 10px 0 10px 0;
+}
+/* .field p a{
+    text-decoration: none;
+    color: rgba(247, 7, 19, 0.822);
+} */
+
+
+.field p {
+    font-size: 20px;
+    margin: 10px
+}
+.field p a:link{color:#FF0000}
+a:visited{color:#000000}
+a:hover{color:#FF00FF}
+a:focus{color:#FF00FF}
+a:active {color:#0000FF}

@@ -1,0 +1,18 @@
+h3{
+    color: #006732;
+}
+
+.adm{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+.adm ul li{
+    line-height: 30px;
+    margin: 0 0 0 50px;
+    font-size: 20px;
+}
+.adm p{
+    line-height: 30px;
+    text-align: justify;    
+    font-size: 20px;
+}

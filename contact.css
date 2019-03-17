@@ -1,0 +1,25 @@
+#cont p{
+    margin-top: 5px;
+    line-height: 30px;
+    margin: 0 0 0 30px;
+    /* padding: 5px; */ 
+    font-family: sans-serif;
+    font-size: 20px;
+    border-radius: 20px  solid black;
+}
+iframe{
+    border: 20x solid black;
+}
+h3{
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #006732;
+}
+h1{
+    color: #006732;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.centext{
+    text-align: center;
+    color: red;
+}
